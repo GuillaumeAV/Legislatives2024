@@ -1,6 +1,6 @@
 ## Comparatif des programmes du Nouveau Front Populaire / Rassemblement national
 
-**Source** : https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#otvibmk
+**Source** : https://www.ifrap.org/elections-legislatives-2024-comparez-les-programmes#otvibmk<br>
 **Traitement** : https://chat.mistral.ai
 
 ### Immigration
